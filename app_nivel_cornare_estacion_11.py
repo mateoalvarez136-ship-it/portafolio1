@@ -29,7 +29,7 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 # ------------------------------------------------------------------
 # Parámetros fijos del trabajo
 # ------------------------------------------------------------------
-NOMBRE_ESTUDIANTE = "Tu Nombre Aquí"
+NOMBRE_ESTUDIANTE = "Mateo Alvarez Taborda"
 CODIGO_ESTACION = "11"
 NOMBRE_ESTACION = "Abejorral (Aguas)"
 CALIDAD = 1
